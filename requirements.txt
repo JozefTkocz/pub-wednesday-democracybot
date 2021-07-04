@@ -1,3 +1,4 @@
 pandas
 flask
+requests
 gunicorn==19.9.0
