@@ -1,2 +1,2 @@
-# puib-wednesday-democracybot
+# pub-wednesday-democracybot
  
